@@ -1,0 +1,10 @@
+/Users/amod/LC-Brewert/mssc-jackson-examples/amar-git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
+/Users/amod/LC-Brewert/mssc-jackson-examples/amar-git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
+/Users/amod/LC-Brewert/mssc-jackson-examples/amar-git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java
+/Users/amod/LC-Brewert/mssc-jackson-examples/amar-git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
+/Users/amod/LC-Brewert/mssc-jackson-examples/amar-git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerStyleEnum.java
+/Users/amod/LC-Brewert/mssc-jackson-examples/amar-git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/bootstrap/BeerInventoryBootstrap.java
+/Users/amod/LC-Brewert/mssc-jackson-examples/amar-git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
+/Users/amod/LC-Brewert/mssc-jackson-examples/amar-git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
+/Users/amod/LC-Brewert/mssc-jackson-examples/amar-git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
+/Users/amod/LC-Brewert/mssc-jackson-examples/amar-git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerInventoryDto.java
